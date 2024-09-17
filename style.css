@@ -30,7 +30,7 @@
     color: #ffd000;
     text-transform: uppercase;
     backface-visibility: visible;
-    transform: rotateY(calc(var(--i) * 17deg)) translateZ(150px);
+    transform: rotateY(calc(var(--i) * 20deg)) translateZ(150px);
   }
   @keyframes rotate{
     100% {
