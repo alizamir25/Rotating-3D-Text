@@ -27,7 +27,7 @@
     font-size: 5vw;
     text-align: center;
     font-weight: 900;
-    color: #ffd000;
+    color: #fdd522;
     text-transform: uppercase;
     backface-visibility: visible;
     transform: rotateY(calc(var(--i) * 20deg)) translateZ(150px);
